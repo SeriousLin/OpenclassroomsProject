@@ -1,5 +1,5 @@
 ### OpenclassroomsProject
 
-##Hello !
+## Hello !
 
-#This is a sample repository for educational purposes
+# This is a sample repository for educational purposes
